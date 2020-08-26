@@ -1,560 +1,2334 @@
 {
-  "graph": [],
-  "links":[{'source': 2, 'target': 3, 'label': 'type_link'},
- {'source': 1, 'target': 3, 'label': 'type_link'},
- {'source': 1, 'target': 4, 'label': 'type_link'},
- {'source': 1, 'target': 2, 'label': 'type_link'},
- {'source': 2, 'target': 5, 'label': 'type_link'},
- {'source': 2, 'target': 5, 'label': 'type_link'},
- {'source': 1, 'target': 5, 'label': 'type_link'},
- {'source': 1, 'target': 5, 'label': 'type_link'},
- {'source': 4, 'target': 7, 'label': 'Property'},
- {'source': 4, 'target': 8, 'label': 'Property'},
- {'source': 5, 'target': 10, 'label': 'Property'},
- {'source': 5, 'target': 11, 'label': 'Property'},
- {'source': 5, 'target': 12, 'label': 'Property'},
- {'source': 5, 'target': 13, 'label': 'Property'},
- {'source': 5, 'target': 14, 'label': 'Property'},
- {'source': 5, 'target': 15, 'label': 'Property'},
- {'source': 5, 'target': 16, 'label': 'Property'},
- {'source': 5, 'target': 17, 'label': 'Property'},
- {'source': 5, 'target': 18, 'label': 'Property'},
- {'source': 5, 'target': 19, 'label': 'Property'},
- {'source': 5, 'target': 20, 'label': 'Property'},
- {'source': 5, 'target': 21, 'label': 'Property'},
- {'source': 6, 'target': 23, 'label': 'Property'},
- {'source': 6, 'target': 24, 'label': 'Property'},
- {'source': 6, 'target': 25, 'label': 'Property'},
- {'source': 6, 'target': 26, 'label': 'Property'},
- {'source': 6, 'target': 27, 'label': 'Property'},
- {'source': 6, 'target': 28, 'label': 'Property'},
- {'source': 1, 'target': 30, 'label': 'Property'},
- {'source': 1, 'target': 31, 'label': 'Property'},
- {'source': 1, 'target': 32, 'label': 'Property'},
- {'source': 1, 'target': 33, 'label': 'Property'},
- {'source': 1, 'target': 34, 'label': 'Property'},
- {'source': 1, 'target': 35, 'label': 'Property'},
- {'source': 1, 'target': 36, 'label': 'Property'},
- {'source': 1, 'target': 37, 'label': 'Property'},
- {'source': 1, 'target': 38, 'label': 'Property'},
- {'source': 1, 'target': 39, 'label': 'Property'},
- {'source': 1, 'target': 40, 'label': 'Property'},
- {'source': 1, 'target': 41, 'label': 'Property'},
- {'source': 1, 'target': 42, 'label': 'Property'},
- {'source': 1, 'target': 43, 'label': 'Property'},
- {'source': 1, 'target': 44, 'label': 'Property'},
- {'source': 1, 'target': 45, 'label': 'Property'},
- {'source': 1, 'target': 46, 'label': 'Property'},
- {'source': 1, 'target': 47, 'label': 'Property'},
- {'source': 1, 'target': 48, 'label': 'Property'},
- {'source': 1, 'target': 49, 'label': 'Property'},
- {'source': 1, 'target': 50, 'label': 'Property'},
- {'source': 1, 'target': 51, 'label': 'Property'},
- {'source': 1, 'target': 52, 'label': 'Property'},
- {'source': 1, 'target': 53, 'label': 'Property'},
- {'source': 1, 'target': 54, 'label': 'Property'},
- {'source': 1, 'target': 55, 'label': 'Property'},
- {'source': 1, 'target': 56, 'label': 'Property'},
- {'source': 1, 'target': 57, 'label': 'Property'},
- {'source': 1, 'target': 58, 'label': 'Property'},
- {'source': 1, 'target': 59, 'label': 'Property'},
- {'source': 1, 'target': 60, 'label': 'Property'},
- {'source': 1, 'target': 61, 'label': 'Property'},
- {'source': 1, 'target': 62, 'label': 'Property'},
- {'source': 1, 'target': 63, 'label': 'Property'},
- {'source': 1, 'target': 64, 'label': 'Property'},
- {'source': 1, 'target': 65, 'label': 'Property'},
- {'source': 1, 'target': 66, 'label': 'Property'},
- {'source': 1, 'target': 67, 'label': 'Property'},
- {'source': 1, 'target': 68, 'label': 'Property'},
- {'source': 1, 'target': 69, 'label': 'Property'},
- {'source': 1, 'target': 70, 'label': 'Property'},
- {'source': 1, 'target': 71, 'label': 'Property'},
- {'source': 1, 'target': 72, 'label': 'Property'},
- {'source': 1, 'target': 73, 'label': 'Property'},
- {'source': 1, 'target': 74, 'label': 'Property'},
- {'source': 1, 'target': 75, 'label': 'Property'},
- {'source': 1, 'target': 76, 'label': 'Property'},
- {'source': 1, 'target': 77, 'label': 'Property'},
- {'source': 1, 'target': 78, 'label': 'Property'},
- {'source': 1, 'target': 79, 'label': 'Property'},
- {'source': 1, 'target': 80, 'label': 'Property'},
- {'source': 1, 'target': 81, 'label': 'Property'},
- {'source': 1, 'target': 82, 'label': 'Property'},
- {'source': 1, 'target': 83, 'label': 'Property'},
- {'source': 1, 'target': 84, 'label': 'Property'},
- {'source': 1, 'target': 85, 'label': 'Property'},
- {'source': 1, 'target': 86, 'label': 'Property'},
- {'source': 1, 'target': 87, 'label': 'Property'},
- {'source': 1, 'target': 88, 'label': 'Property'},
- {'source': 1, 'target': 89, 'label': 'Property'},
- {'source': 1, 'target': 90, 'label': 'Property'},
- {'source': 1, 'target': 91, 'label': 'Property'},
- {'source': 1, 'target': 92, 'label': 'Property'},
- {'source': 1, 'target': 93, 'label': 'Property'},
- {'source': 1, 'target': 94, 'label': 'Property'},
- {'source': 1, 'target': 95, 'label': 'Property'},
- {'source': 1, 'target': 96, 'label': 'Property'},
- {'source': 1, 'target': 97, 'label': 'Property'},
- {'source': 1, 'target': 98, 'label': 'Property'},
- {'source': 1, 'target': 99, 'label': 'Property'},
- {'source': 1, 'target': 100, 'label': 'Property'},
- {'source': 1, 'target': 101, 'label': 'Property'},
- {'source': 1, 'target': 102, 'label': 'Property'},
- {'source': 1, 'target': 103, 'label': 'Property'},
- {'source': 1, 'target': 104, 'label': 'Property'},
- {'source': 1, 'target': 105, 'label': 'Property'},
- {'source': 1, 'target': 106, 'label': 'Property'},
- {'source': 1, 'target': 107, 'label': 'Property'},
- {'source': 1, 'target': 108, 'label': 'Property'},
- {'source': 1, 'target': 109, 'label': 'Property'},
- {'source': 1, 'target': 110, 'label': 'Property'},
- {'source': 1, 'target': 111, 'label': 'Property'},
- {'source': 1, 'target': 112, 'label': 'Property'},
- {'source': 1, 'target': 113, 'label': 'Property'},
- {'source': 0, 'target': 115, 'label': 'Property'},
- {'source': 0, 'target': 116, 'label': 'Property'},
- {'source': 0, 'target': 117, 'label': 'Property'},
- {'source': 0, 'target': 118, 'label': 'Property'},
- {'source': 0, 'target': 119, 'label': 'Property'},
- {'source': 2, 'target': 121, 'label': 'Property'},
- {'source': 2, 'target': 122, 'label': 'Property'},
- {'source': 2, 'target': 123, 'label': 'Property'},
- {'source': 2, 'target': 124, 'label': 'Property'},
- {'source': 2, 'target': 125, 'label': 'Property'},
- {'source': 2, 'target': 126, 'label': 'Property'},
- {'source': 2, 'target': 127, 'label': 'Property'},
- {'source': 2, 'target': 128, 'label': 'Property'},
- {'source': 2, 'target': 129, 'label': 'Property'},
- {'source': 2, 'target': 130, 'label': 'Property'},
- {'source': 2, 'target': 131, 'label': 'Property'},
- {'source': 2, 'target': 132, 'label': 'Property'},
- {'source': 2, 'target': 133, 'label': 'Property'},
- {'source': 2, 'target': 134, 'label': 'Property'},
- {'source': 2, 'target': 135, 'label': 'Property'},
- {'source': 2, 'target': 136, 'label': 'Property'},
- {'source': 2, 'target': 137, 'label': 'Property'},
- {'source': 2, 'target': 138, 'label': 'Property'},
- {'source': 2, 'target': 139, 'label': 'Property'},
- {'source': 2, 'target': 140, 'label': 'Property'},
- {'source': 2, 'target': 141, 'label': 'Property'},
- {'source': 2, 'target': 142, 'label': 'Property'},
- {'source': 2, 'target': 143, 'label': 'Property'},
- {'source': 2, 'target': 144, 'label': 'Property'},
- {'source': 2, 'target': 145, 'label': 'Property'},
- {'source': 2, 'target': 146, 'label': 'Property'},
- {'source': 2, 'target': 147, 'label': 'Property'},
- {'source': 2, 'target': 148, 'label': 'Property'},
- {'source': 2, 'target': 149, 'label': 'Property'},
- {'source': 2, 'target': 150, 'label': 'Property'},
- {'source': 2, 'target': 151, 'label': 'Property'},
- {'source': 2, 'target': 152, 'label': 'Property'},
- {'source': 2, 'target': 153, 'label': 'Property'},
- {'source': 2, 'target': 154, 'label': 'Property'},
- {'source': 2, 'target': 155, 'label': 'Property'},
- {'source': 2, 'target': 156, 'label': 'Property'},
- {'source': 2, 'target': 157, 'label': 'Property'},
- {'source': 2, 'target': 158, 'label': 'Property'},
- {'source': 2, 'target': 159, 'label': 'Property'},
- {'source': 2, 'target': 160, 'label': 'Property'},
- {'source': 2, 'target': 161, 'label': 'Property'},
- {'source': 2, 'target': 162, 'label': 'Property'},
- {'source': 2, 'target': 163, 'label': 'Property'},
- {'source': 2, 'target': 164, 'label': 'Property'},
- {'source': 2, 'target': 165, 'label': 'Property'},
- {'source': 2, 'target': 166, 'label': 'Property'},
- {'source': 2, 'target': 167, 'label': 'Property'},
- {'source': 2, 'target': 168, 'label': 'Property'},
- {'source': 2, 'target': 169, 'label': 'Property'},
- {'source': 2, 'target': 170, 'label': 'Property'},
- {'source': 2, 'target': 171, 'label': 'Property'},
- {'source': 2, 'target': 172, 'label': 'Property'},
- {'source': 2, 'target': 173, 'label': 'Property'},
- {'source': 2, 'target': 174, 'label': 'Property'},
- {'source': 2, 'target': 175, 'label': 'Property'},
- {'source': 2, 'target': 176, 'label': 'Property'},
- {'source': 2, 'target': 177, 'label': 'Property'},
- {'source': 2, 'target': 178, 'label': 'Property'},
- {'source': 2, 'target': 179, 'label': 'Property'},
- {'source': 2, 'target': 180, 'label': 'Property'},
- {'source': 2, 'target': 181, 'label': 'Property'},
- {'source': 2, 'target': 182, 'label': 'Property'},
- {'source': 2, 'target': 183, 'label': 'Property'},
- {'source': 2, 'target': 184, 'label': 'Property'},
- {'source': 2, 'target': 185, 'label': 'Property'},
- {'source': 2, 'target': 186, 'label': 'Property'},
- {'source': 2, 'target': 187, 'label': 'Property'},
- {'source': 2, 'target': 188, 'label': 'Property'},
- {'source': 2, 'target': 189, 'label': 'Property'},
- {'source': 2, 'target': 190, 'label': 'Property'},
- {'source': 2, 'target': 191, 'label': 'Property'},
- {'source': 2, 'target': 192, 'label': 'Property'},
- {'source': 2, 'target': 193, 'label': 'Property'},
- {'source': 2, 'target': 194, 'label': 'Property'},
- {'source': 2, 'target': 195, 'label': 'Property'},
- {'source': 2, 'target': 196, 'label': 'Property'},
- {'source': 2, 'target': 197, 'label': 'Property'},
- {'source': 2, 'target': 198, 'label': 'Property'},
- {'source': 2, 'target': 199, 'label': 'Property'},
- {'source': 2, 'target': 200, 'label': 'Property'},
- {'source': 2, 'target': 201, 'label': 'Property'},
- {'source': 2, 'target': 202, 'label': 'Property'},
- {'source': 2, 'target': 203, 'label': 'Property'},
- {'source': 2, 'target': 204, 'label': 'Property'},
- {'source': 2, 'target': 205, 'label': 'Property'},
- {'source': 2, 'target': 206, 'label': 'Property'},
- {'source': 2, 'target': 207, 'label': 'Property'},
- {'source': 3, 'target': 209, 'label': 'Property'},
- {'source': 3, 'target': 210, 'label': 'Property'},
- {'source': 3, 'target': 211, 'label': 'Property'},
- {'source': 3, 'target': 212, 'label': 'Property'},
- {'source': 1, 'target': 0, 'label': 'untyped_links'},
- {'source': 1, 'target': 6, 'label': 'untyped_links'},
- {'source': 6, 'target': 2, 'label': 'untyped_links'},
- {'source': 5, 'target': 1, 'label': 'untyped_links'}] ,
-  "nodes":[{'name': 'Arm', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'ClinicalProtocol', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'ClinicalStudy', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'Condition', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'Facility', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'MedicinalProduct', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'Person', 'type': 'circle', 'size': 60, 'score': 0.4},
- {'name': 'name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'address', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'orphan_drug_number', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'substance_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'contains_cleaned', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'cat_classification_number',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'trade_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'other_product_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'proposed_inn', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'product_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'product_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'descriptive_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'cas_number', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'current_sponsor_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'parent_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'child_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_affiliation', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_phone', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_mail', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_tree', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'secondary_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'secondary_outcome_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'time_perspective', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_purpose', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'observation_model', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'arm', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'arm_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'min_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation_person_role',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'affiliation_person_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'affiliation_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'collaborator_sponsor_type',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'comparator_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug_roa', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'access_status', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_sub_investigator',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'protocol_id', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'protocol_alternative_id',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'primary_completion_date',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'duration', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_model', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'gender', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'pmid', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'collaborator_sponsor_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'comparator', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'authorized_product_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'condition_mesh_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'study_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_principal_investigator',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'title', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'study_id', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'therapeutic_area', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'enrollment', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'description', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_outcome_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'primary_outcome_measure',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'participant_allocation',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'inclusion_criteria', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'exclusion_criteria', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'sampling_method', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'max_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'inclusion_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'collaborator_sponsor', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'result_external_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'imp_compound', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'medicinal_product_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'authorized_product', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug_coding_scheme', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'result_available', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_study_director', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_contact', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'status', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'phase', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'start_date', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'registration_date', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'completion_date', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'external_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'facility', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'facility_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'secondary_outcome_measure',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'secondary_outcome_timepoints',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'other_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'other_outcome_measure', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'other_outcome_timepoints',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'masking', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'citation', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'medicinal_product', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'orphan_drug', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'orphan_drug_number', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug_form', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_system_organ_class',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'person_study_chair', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'description', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'arm_group_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'arm_group_label', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'condition_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'external_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'facility', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'facility_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'secondary_outcome_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'other_outcome_timepoints',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'time_perspective', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'intervention_model', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'participant_allocation',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'intervention_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'min_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'lead_sponsor_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'collaborator_sponsor', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'collaborator_sponsor_type',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'drug_roa', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_mesh_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition_meddra_system_organ_class',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'result_available', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'minimum_age_numerical', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'maximum_age_numerical', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'study_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'access_status', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_principal_investigator',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'person_study_chair', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_study_director', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_contact', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'study_id', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'earliest_start_date', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_outcome_timepoints',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'primary_purpose', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'observation_model', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'masking', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'exclusion_criteria', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'authorized_product', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'authorized_product_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'drug_coding_scheme', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'person_sub_investigator',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'earliest_registration_date',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'latest_completion_date',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'primary_completion_date',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'total_duration', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'enrollment', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'description', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'other_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'other_outcome_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'intervention_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'inclusion_criteria', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'max_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'inclusion_age', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation_person_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'collaborator_sponsor_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'result_external_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'orphan_drug', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'orphan_drug_number', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'imp_compound', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'medicinal_product_name',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'medicinal_product', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'comparator', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'comparator_name', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'title', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'status', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'phase', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'condition', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'therapeutic_area', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'primary_outcome_description',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'primary_outcome_measure',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'secondary_outcome', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'secondary_outcome_measure',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'secondary_outcome_timepoints',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'other_outcome_measure', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'arm', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'arm_type', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'sampling_method', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'gender', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'pmid', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'citation', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'affiliation_person_role',
-  'type': 'square',
-  'size': 10,
-  'score': 0.2},
- {'name': 'drug_form', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'drug', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'},
- {'name': 'meddra_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'meddra_code', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'meddra_external_link', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'mesh_term', 'type': 'square', 'size': 10, 'score': 0.2},
- {'name': 'disqover#synonym_prop'}] ,
-  "directed": false,
-  "multigraph": false
+   "graph":[
+      
+   ],
+   "links":[
+      {
+         "source":2,
+         "target":3,
+         "label":"type_link"
+      },
+      {
+         "source":1,
+         "target":3,
+         "label":"type_link"
+      },
+      {
+         "source":1,
+         "target":4,
+         "label":"type_link"
+      },
+      {
+         "source":1,
+         "target":2,
+         "label":"type_link"
+      },
+      {
+         "source":2,
+         "target":5,
+         "label":"type_link"
+      },
+      {
+         "source":2,
+         "target":5,
+         "label":"type_link"
+      },
+      {
+         "source":1,
+         "target":5,
+         "label":"type_link"
+      },
+      {
+         "source":1,
+         "target":5,
+         "label":"type_link"
+      },
+      {
+         "source":4,
+         "target":7,
+         "label":"Property"
+      },
+      {
+         "source":4,
+         "target":8,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":10,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":11,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":12,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":13,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":14,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":15,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":16,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":17,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":18,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":19,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":20,
+         "label":"Property"
+      },
+      {
+         "source":5,
+         "target":21,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":23,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":24,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":25,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":26,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":27,
+         "label":"Property"
+      },
+      {
+         "source":6,
+         "target":28,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":30,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":31,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":32,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":33,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":34,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":35,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":36,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":37,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":38,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":39,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":40,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":41,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":42,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":43,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":44,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":45,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":46,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":47,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":48,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":49,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":50,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":51,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":52,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":53,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":54,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":55,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":56,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":57,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":58,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":59,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":60,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":61,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":62,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":63,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":64,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":65,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":66,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":67,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":68,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":69,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":70,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":71,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":72,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":73,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":74,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":75,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":76,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":77,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":78,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":79,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":80,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":81,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":82,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":83,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":84,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":85,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":86,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":87,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":88,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":89,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":90,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":91,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":92,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":93,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":94,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":95,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":96,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":97,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":98,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":99,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":100,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":101,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":102,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":103,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":104,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":105,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":106,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":107,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":108,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":109,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":110,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":111,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":112,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":113,
+         "label":"Property"
+      },
+      {
+         "source":0,
+         "target":115,
+         "label":"Property"
+      },
+      {
+         "source":0,
+         "target":116,
+         "label":"Property"
+      },
+      {
+         "source":0,
+         "target":117,
+         "label":"Property"
+      },
+      {
+         "source":0,
+         "target":118,
+         "label":"Property"
+      },
+      {
+         "source":0,
+         "target":119,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":121,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":122,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":123,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":124,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":125,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":126,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":127,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":128,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":129,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":130,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":131,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":132,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":133,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":134,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":135,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":136,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":137,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":138,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":139,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":140,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":141,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":142,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":143,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":144,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":145,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":146,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":147,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":148,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":149,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":150,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":151,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":152,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":153,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":154,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":155,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":156,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":157,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":158,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":159,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":160,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":161,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":162,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":163,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":164,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":165,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":166,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":167,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":168,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":169,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":170,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":171,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":172,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":173,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":174,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":175,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":176,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":177,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":178,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":179,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":180,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":181,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":182,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":183,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":184,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":185,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":186,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":187,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":188,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":189,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":190,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":191,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":192,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":193,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":194,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":195,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":196,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":197,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":198,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":199,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":200,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":201,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":202,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":203,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":204,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":205,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":206,
+         "label":"Property"
+      },
+      {
+         "source":2,
+         "target":207,
+         "label":"Property"
+      },
+      {
+         "source":3,
+         "target":209,
+         "label":"Property"
+      },
+      {
+         "source":3,
+         "target":210,
+         "label":"Property"
+      },
+      {
+         "source":3,
+         "target":211,
+         "label":"Property"
+      },
+      {
+         "source":3,
+         "target":212,
+         "label":"Property"
+      },
+      {
+         "source":1,
+         "target":0,
+         "label":"untyped_links"
+      },
+      {
+         "source":1,
+         "target":6,
+         "label":"untyped_links"
+      },
+      {
+         "source":6,
+         "target":2,
+         "label":"untyped_links"
+      },
+      {
+         "source":5,
+         "target":1,
+         "label":"untyped_links"
+      }
+   ],
+   "nodes":[
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/Arm",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/ClinicalProtocol",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/ClinicalStudy",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/Condition",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/Facility",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/MedicinalProduct",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"http://ns.ontoforce.com/canonical-type/Person",
+         "type":"circle",
+         "size":60,
+         "score":0
+      },
+      {
+         "name":"<http://ns.ontoforce/property/Facility/name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Facility/address>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/orphan_drug_number>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/substance_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/contains_cleaned>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/cat_classification_number>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/trade_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/other_product_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/proposed_inn>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/product_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/product_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/descriptive_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/cas_number>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/current_sponsor_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/parent_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/child_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/person_affiliation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/person_phone>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/person_mail>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Person/person_tree>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/time_perspective>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_purpose>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/observation_model>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/arm>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/arm_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/min_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_person_role>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_person_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/comparator_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_roa>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/access_status>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_sub_investigator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/protocol_id>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/protocol_alternative_id>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_completion_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/duration>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_model>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/gender>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/pmid>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/comparator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/authorized_product_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_mesh_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/study_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_principal_investigator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/title>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/study_id>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/therapeutic_area>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/enrollment>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/participant_allocation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/inclusion_criteria>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/exclusion_criteria>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/sampling_method>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/max_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/inclusion_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/result_external_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/imp_compound>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/medicinal_product_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/authorized_product>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_coding_scheme>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/result_available>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_study_director>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_contact>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/status>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/phase>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/start_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/registration_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/completion_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/external_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/facility>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/facility_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_timepoints>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome_timepoints>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/masking>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/citation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/medicinal_product>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/orphan_drug>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/orphan_drug_number>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_form>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_system_organ_class>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_study_chair>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Arm/description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Arm/intervention_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Arm/intervention_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Arm/arm_group_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Arm/arm_group_label>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/external_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/facility>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/facility_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_timepoints>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/time_perspective>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_model>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/participant_allocation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/min_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_roa>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_mesh_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_system_organ_class>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/result_available>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/minimum_age_numerical>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/maximum_age_numerical>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/study_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/access_status>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_principal_investigator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_study_chair>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_study_director>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_contact>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/study_id>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/earliest_start_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_timepoints>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_purpose>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/observation_model>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/masking>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/exclusion_criteria>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/authorized_product>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/authorized_product_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_coding_scheme>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_sub_investigator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/earliest_registration_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/latest_completion_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_completion_date>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/total_duration>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/enrollment>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/inclusion_criteria>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/max_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/inclusion_age>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_person_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/result_external_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/orphan_drug>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/orphan_drug_number>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/imp_compound>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/medicinal_product_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/medicinal_product>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/comparator>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/comparator_name>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/title>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/status>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/phase>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/therapeutic_area>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_description>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_timepoints>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_measure>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/arm>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/arm_type>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/sampling_method>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/gender>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/pmid>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/citation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_person_role>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_form>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Condition/meddra_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Condition/meddra_code>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Condition/meddra_external_link>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/property/Condition/mesh_term>",
+         "type":"square",
+         "size":10,
+         "score":0.2
+      },
+      {
+         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+      }
+   ],
+   "directed":false,
+   "multigraph":false
 }
