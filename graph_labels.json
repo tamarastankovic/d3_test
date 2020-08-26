@@ -1066,1267 +1066,1267 @@
    ],
    "nodes":[
       {
-         "name":"http://ns.ontoforce.com/canonical-type/Arm",
+         "name":"Arm",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/ClinicalProtocol",
+         "name":"ClinicalProtocol",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/ClinicalStudy",
+         "name":"ClinicalStudy",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/Condition",
+         "name":"Condition",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/Facility",
+         "name":"Facility",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/MedicinalProduct",
+         "name":"MedicinalProduct",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"http://ns.ontoforce.com/canonical-type/Person",
+         "name":"Person",
          "type":"circle",
          "size":60,
-         "score":0
+         "score":0.4
       },
       {
-         "name":"<http://ns.ontoforce/property/Facility/name>",
+         "name":"name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Facility/address>",
+         "name":"address",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/orphan_drug_number>",
+         "name":"orphan_drug_number",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/substance_code>",
+         "name":"substance_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/contains_cleaned>",
+         "name":"contains_cleaned",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/cat_classification_number>",
+         "name":"cat_classification_number",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/trade_name>",
+         "name":"trade_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/other_product_type>",
+         "name":"other_product_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/proposed_inn>",
+         "name":"proposed_inn",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/product_name>",
+         "name":"product_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/product_code>",
+         "name":"product_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/descriptive_name>",
+         "name":"descriptive_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/cas_number>",
+         "name":"cas_number",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/MedicinalProduct/current_sponsor_code>",
+         "name":"current_sponsor_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/parent_link>",
+         "name":"parent_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/child_link>",
+         "name":"child_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/person_affiliation>",
+         "name":"person_affiliation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/person_phone>",
+         "name":"person_phone",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/person_mail>",
+         "name":"person_mail",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Person/person_tree>",
+         "name":"person_tree",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome>",
+         "name":"secondary_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_description>",
+         "name":"secondary_outcome_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/time_perspective>",
+         "name":"time_perspective",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_purpose>",
+         "name":"primary_purpose",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/observation_model>",
+         "name":"observation_model",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/arm>",
+         "name":"arm",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/arm_type>",
+         "name":"arm_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/min_age>",
+         "name":"min_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation>",
+         "name":"affiliation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_person_role>",
+         "name":"affiliation_person_role",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_person_name>",
+         "name":"affiliation_person_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/affiliation_name>",
+         "name":"affiliation_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor>",
+         "name":"lead_sponsor",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor_name>",
+         "name":"lead_sponsor_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor_type>",
+         "name":"collaborator_sponsor_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/comparator_name>",
+         "name":"comparator_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_roa>",
+         "name":"drug_roa",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_term>",
+         "name":"condition_meddra_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/access_status>",
+         "name":"access_status",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_sub_investigator>",
+         "name":"person_sub_investigator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/protocol_id>",
+         "name":"protocol_id",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/protocol_alternative_id>",
+         "name":"protocol_alternative_id",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_completion_date>",
+         "name":"primary_completion_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/duration>",
+         "name":"duration",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_name>",
+         "name":"condition_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_model>",
+         "name":"intervention_model",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/gender>",
+         "name":"gender",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/pmid>",
+         "name":"pmid",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/lead_sponsor_type>",
+         "name":"lead_sponsor_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor_name>",
+         "name":"collaborator_sponsor_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/comparator>",
+         "name":"comparator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/authorized_product_name>",
+         "name":"authorized_product_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_mesh_term>",
+         "name":"condition_mesh_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/study_type>",
+         "name":"study_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_principal_investigator>",
+         "name":"person_principal_investigator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/title>",
+         "name":"title",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/study_id>",
+         "name":"study_id",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/therapeutic_area>",
+         "name":"therapeutic_area",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/enrollment>",
+         "name":"enrollment",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/description>",
+         "name":"description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome>",
+         "name":"primary_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome_description>",
+         "name":"primary_outcome_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/primary_outcome_measure>",
+         "name":"primary_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/participant_allocation>",
+         "name":"participant_allocation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/inclusion_criteria>",
+         "name":"inclusion_criteria",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/exclusion_criteria>",
+         "name":"exclusion_criteria",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/sampling_method>",
+         "name":"sampling_method",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/max_age>",
+         "name":"max_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/inclusion_age>",
+         "name":"inclusion_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/collaborator_sponsor>",
+         "name":"collaborator_sponsor",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/result_external_link>",
+         "name":"result_external_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/imp_compound>",
+         "name":"imp_compound",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/medicinal_product_name>",
+         "name":"medicinal_product_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/authorized_product>",
+         "name":"authorized_product",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_coding_scheme>",
+         "name":"drug_coding_scheme",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_code>",
+         "name":"condition_meddra_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/result_available>",
+         "name":"result_available",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_study_director>",
+         "name":"person_study_director",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_contact>",
+         "name":"person_contact",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/status>",
+         "name":"status",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/phase>",
+         "name":"phase",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/start_date>",
+         "name":"start_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/registration_date>",
+         "name":"registration_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/completion_date>",
+         "name":"completion_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition>",
+         "name":"condition",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/external_link>",
+         "name":"external_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/facility>",
+         "name":"facility",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/facility_name>",
+         "name":"facility_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_measure>",
+         "name":"secondary_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/secondary_outcome_timepoints>",
+         "name":"secondary_outcome_timepoints",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome>",
+         "name":"other_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome_measure>",
+         "name":"other_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/other_outcome_timepoints>",
+         "name":"other_outcome_timepoints",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/masking>",
+         "name":"masking",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_type>",
+         "name":"intervention_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/intervention_description>",
+         "name":"intervention_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/citation>",
+         "name":"citation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/medicinal_product>",
+         "name":"medicinal_product",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_code>",
+         "name":"drug_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/orphan_drug>",
+         "name":"orphan_drug",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/orphan_drug_number>",
+         "name":"orphan_drug_number",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/drug_form>",
+         "name":"drug_form",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/condition_meddra_system_organ_class>",
+         "name":"condition_meddra_system_organ_class",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalProtocol/person_study_chair>",
+         "name":"person_study_chair",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Arm/description>",
+         "name":"description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Arm/intervention_type>",
+         "name":"intervention_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Arm/intervention_description>",
+         "name":"intervention_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Arm/arm_group_type>",
+         "name":"arm_group_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Arm/arm_group_label>",
+         "name":"arm_group_label",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_name>",
+         "name":"condition_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/external_link>",
+         "name":"external_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/facility>",
+         "name":"facility",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/facility_name>",
+         "name":"facility_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_description>",
+         "name":"secondary_outcome_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_timepoints>",
+         "name":"other_outcome_timepoints",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/time_perspective>",
+         "name":"time_perspective",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_model>",
+         "name":"intervention_model",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/participant_allocation>",
+         "name":"participant_allocation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_description>",
+         "name":"intervention_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/min_age>",
+         "name":"min_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_name>",
+         "name":"affiliation_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor>",
+         "name":"lead_sponsor",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor_type>",
+         "name":"lead_sponsor_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/lead_sponsor_name>",
+         "name":"lead_sponsor_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor>",
+         "name":"collaborator_sponsor",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor_type>",
+         "name":"collaborator_sponsor_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_roa>",
+         "name":"drug_roa",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_mesh_term>",
+         "name":"condition_mesh_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_term>",
+         "name":"condition_meddra_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_code>",
+         "name":"condition_meddra_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition_meddra_system_organ_class>",
+         "name":"condition_meddra_system_organ_class",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/result_available>",
+         "name":"result_available",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/minimum_age_numerical>",
+         "name":"minimum_age_numerical",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/maximum_age_numerical>",
+         "name":"maximum_age_numerical",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/study_type>",
+         "name":"study_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/access_status>",
+         "name":"access_status",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_principal_investigator>",
+         "name":"person_principal_investigator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_study_chair>",
+         "name":"person_study_chair",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_study_director>",
+         "name":"person_study_director",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_contact>",
+         "name":"person_contact",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/study_id>",
+         "name":"study_id",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/earliest_start_date>",
+         "name":"earliest_start_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_timepoints>",
+         "name":"primary_outcome_timepoints",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_purpose>",
+         "name":"primary_purpose",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/observation_model>",
+         "name":"observation_model",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/masking>",
+         "name":"masking",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/exclusion_criteria>",
+         "name":"exclusion_criteria",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/authorized_product>",
+         "name":"authorized_product",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/authorized_product_name>",
+         "name":"authorized_product_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_coding_scheme>",
+         "name":"drug_coding_scheme",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_code>",
+         "name":"drug_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/person_sub_investigator>",
+         "name":"person_sub_investigator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/earliest_registration_date>",
+         "name":"earliest_registration_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/latest_completion_date>",
+         "name":"latest_completion_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_completion_date>",
+         "name":"primary_completion_date",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/total_duration>",
+         "name":"total_duration",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/enrollment>",
+         "name":"enrollment",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/description>",
+         "name":"description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome>",
+         "name":"other_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_description>",
+         "name":"other_outcome_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/intervention_type>",
+         "name":"intervention_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/inclusion_criteria>",
+         "name":"inclusion_criteria",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/max_age>",
+         "name":"max_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/inclusion_age>",
+         "name":"inclusion_age",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_person_name>",
+         "name":"affiliation_person_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/collaborator_sponsor_name>",
+         "name":"collaborator_sponsor_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/result_external_link>",
+         "name":"result_external_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/orphan_drug>",
+         "name":"orphan_drug",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/orphan_drug_number>",
+         "name":"orphan_drug_number",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/imp_compound>",
+         "name":"imp_compound",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/medicinal_product_name>",
+         "name":"medicinal_product_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/medicinal_product>",
+         "name":"medicinal_product",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/comparator>",
+         "name":"comparator",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/comparator_name>",
+         "name":"comparator_name",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/title>",
+         "name":"title",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/status>",
+         "name":"status",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/phase>",
+         "name":"phase",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/condition>",
+         "name":"condition",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/therapeutic_area>",
+         "name":"therapeutic_area",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome>",
+         "name":"primary_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_description>",
+         "name":"primary_outcome_description",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/primary_outcome_measure>",
+         "name":"primary_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome>",
+         "name":"secondary_outcome",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_measure>",
+         "name":"secondary_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/secondary_outcome_timepoints>",
+         "name":"secondary_outcome_timepoints",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/other_outcome_measure>",
+         "name":"other_outcome_measure",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/arm>",
+         "name":"arm",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/arm_type>",
+         "name":"arm_type",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/sampling_method>",
+         "name":"sampling_method",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/gender>",
+         "name":"gender",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/pmid>",
+         "name":"pmid",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/citation>",
+         "name":"citation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation>",
+         "name":"affiliation",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/affiliation_person_role>",
+         "name":"affiliation_person_role",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug_form>",
+         "name":"drug_form",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/ClinicalStudy/drug>",
+         "name":"drug",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Condition/meddra_term>",
+         "name":"meddra_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Condition/meddra_code>",
+         "name":"meddra_code",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Condition/meddra_external_link>",
+         "name":"meddra_external_link",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/property/Condition/mesh_term>",
+         "name":"mesh_term",
          "type":"square",
          "size":10,
          "score":0.2
       },
       {
-         "name":"<http://ns.ontoforce.com/2013/disqover#synonym_prop>"
+         "name":"disqover#synonym_prop"
       }
    ],
    "directed":false,
