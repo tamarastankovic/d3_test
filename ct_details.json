@@ -1,0 +1,44 @@
+[
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/Arm",
+      "label":"Arm",
+      "type":"CT",
+      "description":"A group or subgroup of participants in a clinical trial that receives a specific intervention/treatment, or no intervention, according to the trial's protocol."
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/ClinicalProtocol",
+      "label":"Clinical Protocol",
+      "type":"CT",
+      "description":"Clinical Protocol part of a Clinical Study"
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/ClinicalStudy",
+      "label":"Clinical Study",
+      "type":"CT",
+      "description":"Contains clinical trials"
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/Condition",
+      "label":"Condition",
+      "type":"CT",
+      "description":"The Condition under investigation in the respective Protocol/Study."
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/Facility",
+      "label":"Facility",
+      "type":"CT",
+      "description":"Facility participating in a Clinical Protocol"
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/MedicinalProduct",
+      "label":"Medicinal Product",
+      "type":"CT",
+      "description":"The Medicinal Product under investigation in the respective Protocol/Study."
+   },
+   {
+      "URI":"http://ns.ontoforce.com/canonical-type/Person",
+      "label":"Person",
+      "type":"CT",
+      "description":"The Persons involved in the Protocol/Study."
+   }
+]
