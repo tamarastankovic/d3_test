@@ -1,0 +1,640 @@
+{
+    "name": "DQ",
+    "children": [
+        {
+            "name": "Facility",
+            "children": [
+                {
+                    "name": "Name"
+                },
+                {
+                    "name": "Address"
+                }
+            ]
+        },
+        {
+            "name": "MedicinalProduct",
+            "children": [
+                {
+                    "name": "Orphan Drug Designation Number"
+                },
+                {
+                    "name": "EV Substance Code"
+                },
+                {
+                    "name": "Medicinal Product Contains"
+                },
+                {
+                    "name": "CAT Classification and Reference Number"
+                },
+                {
+                    "name": "Trade Name"
+                },
+                {
+                    "name": "Other Product Type"
+                },
+                {
+                    "name": "Proposed INN"
+                },
+                {
+                    "name": "Product Name"
+                },
+                {
+                    "name": "Product Code"
+                },
+                {
+                    "name": "Other Descriptive Product Name"
+                },
+                {
+                    "name": "CAS Number"
+                },
+                {
+                    "name": "Current Sponsor Code"
+                }
+            ]
+        },
+        {
+            "name": "Person",
+            "children": [
+                {
+                    "name": "Parent"
+                },
+                {
+                    "name": "Child"
+                },
+                {
+                    "name": "Affiliation"
+                },
+                {
+                    "name": "Phone Number"
+                },
+                {
+                    "name": "E-mail"
+                },
+                {
+                    "name": "Person Tree"
+                }
+            ]
+        },
+        {
+            "name": "ClinicalProtocol",
+            "children": [
+                {
+                    "name": "Secondary Outcome"
+                },
+                {
+                    "name": "Secondary Outcome Description"
+                },
+                {
+                    "name": "Time Perspective"
+                },
+                {
+                    "name": "Primary Purpose"
+                },
+                {
+                    "name": "Observation Model"
+                },
+                {
+                    "name": "Study Arm"
+                },
+                {
+                    "name": "Study Arm Type"
+                },
+                {
+                    "name": "Eligibility Minimum Age"
+                },
+                {
+                    "name": "Affiliation"
+                },
+                {
+                    "name": "Role"
+                },
+                {
+                    "name": "Name"
+                },
+                {
+                    "name": "Affiliation Name"
+                },
+                {
+                    "name": "Lead Sponsor"
+                },
+                {
+                    "name": "Lead Sponsor Name"
+                },
+                {
+                    "name": "Collaborating Sponsor Type"
+                },
+                {
+                    "name": "Comparator Name"
+                },
+                {
+                    "name": "Drug Route Of Administration"
+                },
+                {
+                    "name": "Condition MedDRA Term"
+                },
+                {
+                    "name": "Access Status"
+                },
+                {
+                    "name": "Sub Investigator"
+                },
+                {
+                    "name": "Protocol ID"
+                },
+                {
+                    "name": "Alternative Protocol ID"
+                },
+                {
+                    "name": "Primary Completion Date"
+                },
+                {
+                    "name": "Duration"
+                },
+                {
+                    "name": "Condition Name"
+                },
+                {
+                    "name": "Intervention Model"
+                },
+                {
+                    "name": "Gender"
+                },
+                {
+                    "name": "PMID"
+                },
+                {
+                    "name": "Lead Sponsor Type"
+                },
+                {
+                    "name": "Collaborating Sponsor Name"
+                },
+                {
+                    "name": "Comparator"
+                },
+                {
+                    "name": "Authorized Product Name"
+                },
+                {
+                    "name": "Condition Mesh Term"
+                },
+                {
+                    "name": "Type of Study"
+                },
+                {
+                    "name": "Principal Investigator"
+                },
+                {
+                    "name": "Title"
+                },
+                {
+                    "name": "Study ID"
+                },
+                {
+                    "name": "Therapeutic Area"
+                },
+                {
+                    "name": "Enrollment"
+                },
+                {
+                    "name": "Description"
+                },
+                {
+                    "name": "Primary Outcome"
+                },
+                {
+                    "name": "Primary Outcome Description"
+                },
+                {
+                    "name": "Primary Outcome Measure"
+                },
+                {
+                    "name": "Participant Allocation"
+                },
+                {
+                    "name": "Inclusion Criteria"
+                },
+                {
+                    "name": "Exclusion Criteria"
+                },
+                {
+                    "name": "Sampling Method"
+                },
+                {
+                    "name": "Eligibility Maximum Age"
+                },
+                {
+                    "name": "Inclusion Age"
+                },
+                {
+                    "name": "Collaborating Sponsor"
+                },
+                {
+                    "name": "Link to Result Page"
+                },
+                {
+                    "name": "Investigational Medicinal Product Information"
+                },
+                {
+                    "name": "Investigational Medicinal Product Name"
+                },
+                {
+                    "name": "Authorized Product"
+                },
+                {
+                    "name": "Drug Coding Scheme"
+                },
+                {
+                    "name": "Condition MedDRA Code"
+                },
+                {
+                    "name": "Availablility of Trial Results"
+                },
+                {
+                    "name": "Study Director"
+                },
+                {
+                    "name": "Contact Person"
+                },
+                {
+                    "name": "Status"
+                },
+                {
+                    "name": "Phase"
+                },
+                {
+                    "name": "Start Date"
+                },
+                {
+                    "name": "Registration Date"
+                },
+                {
+                    "name": "Completion Date"
+                },
+                {
+                    "name": "Condition"
+                },
+                {
+                    "name": "External Link"
+                },
+                {
+                    "name": "Facility"
+                },
+                {
+                    "name": "Facility Name"
+                },
+                {
+                    "name": "Secondary Outcome Measure"
+                },
+                {
+                    "name": "Secondary Outcome Timepoints"
+                },
+                {
+                    "name": "Other Outcome"
+                },
+                {
+                    "name": "Other Outcome Measure"
+                },
+                {
+                    "name": "Other Outcome Timepoints"
+                },
+                {
+                    "name": "Masking"
+                },
+                {
+                    "name": "Intervention Type"
+                },
+                {
+                    "name": "Intervention Description"
+                },
+                {
+                    "name": "Citation"
+                },
+                {
+                    "name": "Investigational Medicinal Product"
+                },
+                {
+                    "name": "Drug Code"
+                },
+                {
+                    "name": "Orphan Drug"
+                },
+                {
+                    "name": "Orphan Drug Designation Number"
+                },
+                {
+                    "name": "Drug Dosage Form"
+                },
+                {
+                    "name": "Condition MedDRA System Organ Class"
+                },
+                {
+                    "name": "Study Chair"
+                }
+            ]
+        },
+        {
+            "name": "Arm",
+            "children": [
+                {
+                    "name": "Description"
+                },
+                {
+                    "name": "Intervention Type"
+                },
+                {
+                    "name": "Intervention Description"
+                },
+                {
+                    "name": "Group Type"
+                },
+                {
+                    "name": "Arm Group Label"
+                }
+            ]
+        },
+        {
+            "name": "ClinicalStudy",
+            "children": [
+                {
+                    "name": "Condition Name"
+                },
+                {
+                    "name": "External Link"
+                },
+                {
+                    "name": "Facility"
+                },
+                {
+                    "name": "Facility Name"
+                },
+                {
+                    "name": "Secondary Outcome Description"
+                },
+                {
+                    "name": "Other Outcome Timepoints"
+                },
+                {
+                    "name": "Time Perspective"
+                },
+                {
+                    "name": "Intervention Model"
+                },
+                {
+                    "name": "Participant Allocation"
+                },
+                {
+                    "name": "Intervention Description"
+                },
+                {
+                    "name": "Eligibility Minimum Age"
+                },
+                {
+                    "name": "Affiliation Name"
+                },
+                {
+                    "name": "Lead Sponsor"
+                },
+                {
+                    "name": "Lead Sponsor Type"
+                },
+                {
+                    "name": "Lead Sponsor Name"
+                },
+                {
+                    "name": "Collaborating Sponsor"
+                },
+                {
+                    "name": "Collaborating Sponsor Type"
+                },
+                {
+                    "name": "Drug Route Of Administration"
+                },
+                {
+                    "name": "Condition Mesh Term"
+                },
+                {
+                    "name": "Condition MedDRA Term"
+                },
+                {
+                    "name": "Condition MedDRA Code"
+                },
+                {
+                    "name": "Condition MedDRA System Organ Class"
+                },
+                {
+                    "name": "Availablility of Trial Results"
+                },
+                {
+                    "name": "Eligibility Minimum Age [Years]"
+                },
+                {
+                    "name": "Eligibility Maximum Age [Years]"
+                },
+                {
+                    "name": "Type of Study"
+                },
+                {
+                    "name": "Access Status"
+                },
+                {
+                    "name": "Principal Investigator"
+                },
+                {
+                    "name": "Study Chair"
+                },
+                {
+                    "name": "Study Director"
+                },
+                {
+                    "name": "Contact Person"
+                },
+                {
+                    "name": "Study ID"
+                },
+                {
+                    "name": "Earliest Start Date"
+                },
+                {
+                    "name": "Primary Outcome Timepoints"
+                },
+                {
+                    "name": "Primary Purpose"
+                },
+                {
+                    "name": "Observation Model"
+                },
+                {
+                    "name": "Masking"
+                },
+                {
+                    "name": "Exclusion Criteria"
+                },
+                {
+                    "name": "Authorized Product"
+                },
+                {
+                    "name": "Authorized Product Name"
+                },
+                {
+                    "name": "Drug Coding Scheme"
+                },
+                {
+                    "name": "Drug Code"
+                },
+                {
+                    "name": "Sub Investigator"
+                },
+                {
+                    "name": "Earliest Registration Date"
+                },
+                {
+                    "name": "Latest Completion Date"
+                },
+                {
+                    "name": "Latest Primary Completion Date"
+                },
+                {
+                    "name": "Total Duration"
+                },
+                {
+                    "name": "Enrollment"
+                },
+                {
+                    "name": "Description"
+                },
+                {
+                    "name": "Other Outcome"
+                },
+                {
+                    "name": "Other Outcome Description"
+                },
+                {
+                    "name": "Intervention Type"
+                },
+                {
+                    "name": "Inclusion Criteria"
+                },
+                {
+                    "name": "Eligibility Maximum Age"
+                },
+                {
+                    "name": "Inclusion Age"
+                },
+                {
+                    "name": "Name"
+                },
+                {
+                    "name": "Collaborating Sponsor Name"
+                },
+                {
+                    "name": "Link to Result Page"
+                },
+                {
+                    "name": "Orphan Drug"
+                },
+                {
+                    "name": "Orphan Drug Designation Number"
+                },
+                {
+                    "name": "Investigational Medicinal Product Information"
+                },
+                {
+                    "name": "Investigational Medicinal Product Name"
+                },
+                {
+                    "name": "Investigational Medicinal Product"
+                },
+                {
+                    "name": "Comparator"
+                },
+                {
+                    "name": "Comparator Name"
+                },
+                {
+                    "name": "Title"
+                },
+                {
+                    "name": "Status"
+                },
+                {
+                    "name": "Phase"
+                },
+                {
+                    "name": "Condition"
+                },
+                {
+                    "name": "Therapeutic Area"
+                },
+                {
+                    "name": "Primary Outcome"
+                },
+                {
+                    "name": "Primary Outcome Description"
+                },
+                {
+                    "name": "Primary Outcome Measure"
+                },
+                {
+                    "name": "Secondary Outcome"
+                },
+                {
+                    "name": "Secondary Outcome Measure"
+                },
+                {
+                    "name": "Secondary Outcome Timepoints"
+                },
+                {
+                    "name": "Other Outcome Measure"
+                },
+                {
+                    "name": "Study Arm"
+                },
+                {
+                    "name": "Study Arm Type"
+                },
+                {
+                    "name": "Sampling Method"
+                },
+                {
+                    "name": "Gender"
+                },
+                {
+                    "name": "PMID"
+                },
+                {
+                    "name": "Citation"
+                },
+                {
+                    "name": "Affiliation"
+                },
+                {
+                    "name": "Role"
+                },
+                {
+                    "name": "Drug Dosage Form"
+                },
+                {
+                    "name": "Drug"
+                }
+            ]
+        },
+        {
+            "name": "Condition",
+            "children": [
+                {
+                    "name": "MedDRA Term"
+                },
+                {
+                    "name": "MedDRA Code"
+                },
+                {
+                    "name": "Link to the related MedDRA page"
+                },
+                {
+                    "name": "MeSH Term"
+                }
+            ]
+        }
+    ]
+}
