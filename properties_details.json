@@ -1,0 +1,2125 @@
+[
+   {
+      "URI":"<http:\/\/ns.ontoforce\/property\/Facility\/name>",
+      "Facet":"N",
+      "label":"Name",
+      "type":"Property",
+      "description":"The name of the facility",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Facility\/address>",
+      "Facet":"N",
+      "label":"Address",
+      "type":"Property",
+      "description":"The address of the facility",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/orphan_drug_number>",
+      "Facet":"N",
+      "label":"Orphan Drug Designation Number",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/substance_code>",
+      "Facet":"N",
+      "label":"EV Substance Code",
+      "type":"Property",
+      "description":"Active Substance's EudraVigilance Substance Code",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/contains_cleaned>",
+      "Facet":"Y",
+      "label":"Medicinal Product Contains",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/cat_classification_number>",
+      "Facet":"Y",
+      "label":"CAT Classification and Reference Number",
+      "type":"Property",
+      "description":"Classification issued by the Committee on Advanced Therapies",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/trade_name>",
+      "Facet":"N",
+      "label":"Trade Name",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/other_product_type>",
+      "Facet":"N",
+      "label":"Other Product Type",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/proposed_inn>",
+      "Facet":"N",
+      "label":"Proposed INN",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/product_name>",
+      "Facet":"N",
+      "label":"Product Name",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/product_code>",
+      "Facet":"N",
+      "label":"Product Code",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/descriptive_name>",
+      "Facet":"N",
+      "label":"Other Descriptive Product Name",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/cas_number>",
+      "Facet":"N",
+      "label":"CAS Number",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/MedicinalProduct\/current_sponsor_code>",
+      "Facet":"N",
+      "label":"Current Sponsor Code",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/parent_link>",
+      "Facet":"Y",
+      "label":"Parent",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/child_link>",
+      "Facet":"Y",
+      "label":"Child",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/person_affiliation>",
+      "Facet":"Y",
+      "label":"Affiliation",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/person_phone>",
+      "Facet":"Y",
+      "label":"Phone Number",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/person_mail>",
+      "Facet":"Y",
+      "label":"E-mail",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Person\/person_tree>",
+      "Facet":"Y",
+      "label":"Person Tree",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/secondary_outcome>",
+      "Facet":"N",
+      "label":"Secondary Outcome",
+      "type":"Property",
+      "description":" Outcome measure that is of lesser importance than a primary outcome measure, but is part of a pre-specified analysis plan for evaluating the effects of the intervention or interventions under investigation in a clinical study and is not specified as an exploratory or other measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/secondary_outcome_description>",
+      "Facet":"N",
+      "label":"Secondary Outcome Description",
+      "type":"Property",
+      "description":"Description of the metric used to characterize the specific secondary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/time_perspective>",
+      "Facet":"Y",
+      "label":"Time Perspective",
+      "type":"Property",
+      "description":"Temporal relationship of observation period to time of participant enrollment.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/primary_purpose>",
+      "Facet":"Y",
+      "label":"Primary Purpose",
+      "type":"Property",
+      "description":"The main objective of the intervention(s) being evaluated by the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/observation_model>",
+      "Facet":"Y",
+      "label":"Observation Model",
+      "type":"Property",
+      "description":"Primary strategy for participant identification and follow-up.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/arm>",
+      "Facet":"N",
+      "label":"Study Arm",
+      "type":"Property",
+      "description":"A pre-specified group or subgroup of participant(s) in a clinical trial assigned to receive specific intervention(s) (or no intervention) according to a protocol.",
+      "provenance":[
+         
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/arm_type>",
+      "Facet":"N",
+      "label":"Study Arm Type",
+      "type":"Property",
+      "description":"The role of each arm in the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/min_age>",
+      "Facet":"Y",
+      "label":"Eligibility Minimum Age",
+      "type":"Property",
+      "description":"The minimum age a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/affiliation>",
+      "Facet":"Y",
+      "label":"Affiliation",
+      "type":"Property",
+      "description":"Affiliation details of persons linked to the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/affiliation_person_role>",
+      "Facet":"Y",
+      "label":"Role",
+      "type":"Property",
+      "description":"Position or function of the study affiliated person.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/affiliation_person_name>",
+      "Facet":"N",
+      "label":"Name",
+      "type":"Property",
+      "description":"Last name of the study affiliated person.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/affiliation_name>",
+      "Facet":"Y",
+      "label":"Affiliation Name",
+      "type":"Property",
+      "description":"Full name of the affiliated person's organization.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/lead_sponsor>",
+      "Facet":"Y",
+      "label":"Lead Sponsor",
+      "type":"Property",
+      "description":"The organization or person who initiates the study and who has authority and control over the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/lead_sponsor_name>",
+      "Facet":"Y",
+      "label":"Lead Sponsor Name",
+      "type":"Property",
+      "description":"The full name of the lead sponsor agency.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/collaborator_sponsor_type>",
+      "Facet":"N",
+      "label":"Collaborating Sponsor Type",
+      "type":"Property",
+      "description":"The collaborator sponsor agency type.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/comparator_name>",
+      "Facet":"Y",
+      "label":"Comparator Name",
+      "type":"Property",
+      "description":"The name of the medicinal product which is used as a reference, including placebos, in the clinical trial. ",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/drug_roa>",
+      "Facet":"Y",
+      "label":"Drug Route Of Administration",
+      "type":"Property",
+      "description":"Drug route of administration.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition_meddra_term>",
+      "Facet":"Y",
+      "label":"Condition MedDRA Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/access_status>",
+      "Facet":"Y",
+      "label":"Access Status",
+      "type":"Property",
+      "description":"The expanded access status of the intervention",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/person_sub_investigator>",
+      "Facet":"Y",
+      "label":"Sub Investigator",
+      "type":"Property",
+      "description":"The sub-investigators affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/protocol_id>",
+      "Facet":"N",
+      "label":"Protocol ID",
+      "type":"Property",
+      "description":"The IDs of the underlying protocols",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/protocol_alternative_id>",
+      "Facet":"N",
+      "label":"Alternative Protocol ID",
+      "type":"Property",
+      "description":"Alternative IDs associated with an individual protocol of a clinical study",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/primary_completion_date>",
+      "Facet":"N",
+      "label":"Primary Completion Date",
+      "type":"Property",
+      "description":"Completion date for the primary outcome.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/duration>",
+      "Facet":"N",
+      "label":"Duration",
+      "type":"Property",
+      "description":"Duration of the study in years.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition_name>",
+      "Facet":"Y",
+      "label":"Condition Name",
+      "type":"Property",
+      "description":"The names of the diseases or conditions studied in the clinical study protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/intervention_model>",
+      "Facet":"Y",
+      "label":"Intervention Model",
+      "type":"Property",
+      "description":"The strategy for assigning interventions to participants. ",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/gender>",
+      "Facet":"Y",
+      "label":"Gender",
+      "type":"Property",
+      "description":"The sex and, if applicable, gender of the participants eligible to participate in the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/pmid>",
+      "Facet":"N",
+      "label":"PMID",
+      "type":"Property",
+      "description":"PMID for the citation in MEDLINE.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/lead_sponsor_type>",
+      "Facet":"N",
+      "label":"Lead Sponsor Type",
+      "type":"Property",
+      "description":"The lead sponsor agency type.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/collaborator_sponsor_name>",
+      "Facet":"Y",
+      "label":"Collaborating Sponsor Name",
+      "type":"Property",
+      "description":"The full name of the collaborator sponsor agency.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/comparator>",
+      "Facet":"Y",
+      "label":"Comparator",
+      "type":"Property",
+      "description":"The medicinal product which is used as a reference, including placebos, in the clinical trial. ",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/authorized_product_name>",
+      "Facet":"Y",
+      "label":"Authorized Product Name",
+      "type":"Property",
+      "description":"The product name as registered by themarketing authorisation holder.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition_mesh_term>",
+      "Facet":"Y",
+      "label":"Condition Mesh Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/study_type>",
+      "Facet":"N",
+      "label":"Type of Study",
+      "type":"Property",
+      "description":"Describes the nature of a clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/person_principal_investigator>",
+      "Facet":"Y",
+      "label":"Principal Investigator",
+      "type":"Property",
+      "description":"The principal investigators affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/title>",
+      "Facet":"N",
+      "label":"Title",
+      "type":"Property",
+      "description":"The title of the clinical trials, corresponding to the title of the protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/study_id>",
+      "Facet":"N",
+      "label":"Study ID",
+      "type":"Property",
+      "description":"The primary ID of the clinical study",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/therapeutic_area>",
+      "Facet":"Y",
+      "label":"Therapeutic Area",
+      "type":"Property",
+      "description":"Disease domain in research.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/enrollment>",
+      "Facet":"N",
+      "label":"Enrollment",
+      "type":"Property",
+      "description":"The (target) total number of participants that are (to be) enrolled in the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/description>",
+      "Facet":"N",
+      "label":"Description",
+      "type":"Property",
+      "description":"A description of the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/primary_outcome>",
+      "Facet":"N",
+      "label":"Primary Outcome",
+      "type":"Property",
+      "description":"The outcome measure(s) of greatest importance specified in the protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/primary_outcome_description>",
+      "Facet":"N",
+      "label":"Primary Outcome Description",
+      "type":"Property",
+      "description":"Description of the metric used to characterize the specific primary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/primary_outcome_measure>",
+      "Facet":"N",
+      "label":"Primary Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific primary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/participant_allocation>",
+      "Facet":"Y",
+      "label":"Participant Allocation",
+      "type":"Property",
+      "description":"The method by which participants are assigned to arms in a clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/inclusion_criteria>",
+      "Facet":"N",
+      "label":"Inclusion Criteria",
+      "type":"Property",
+      "description":"Inclusion criteria for selection of participants for section of participants to the study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/exclusion_criteria>",
+      "Facet":"N",
+      "label":"Exclusion Criteria",
+      "type":"Property",
+      "description":"Exclusion criteria for selection of participants for section of participants to the study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/sampling_method>",
+      "Facet":"Y",
+      "label":"Sampling Method",
+      "type":"Property",
+      "description":"The method used for the sampling approach.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/max_age>",
+      "Facet":"Y",
+      "label":"Eligibility Maximum Age",
+      "type":"Property",
+      "description":"The maximum age a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/inclusion_age>",
+      "Facet":"Y",
+      "label":"Inclusion Age",
+      "type":"Property",
+      "description":"The age category a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/collaborator_sponsor>",
+      "Facet":"Y",
+      "label":"Collaborating Sponsor",
+      "type":"Property",
+      "description":"Other organizations (if any) providing support.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/result_external_link>",
+      "Facet":"N",
+      "label":"Link to Result Page",
+      "type":"Property",
+      "description":"External link to study results.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/imp_compound>",
+      "Facet":"N",
+      "label":"Investigational Medicinal Product Information",
+      "type":"Property",
+      "description":"A medicinal product which is being tested or used as a reference, including as a placebo, in a clinical trial. Formatted as a dictionary, containing additional meta-data.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/medicinal_product_name>",
+      "Facet":"Y",
+      "label":"Investigational Medicinal Product Name",
+      "type":"Property",
+      "description":"The name of the medicinal product which is being tested in the clinical trial.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/authorized_product>",
+      "Facet":"Y",
+      "label":"Authorized Product",
+      "type":"Property",
+      "description":"Has the IMP a marketing authorisation?",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/drug_coding_scheme>",
+      "Facet":"Y",
+      "label":"Drug Coding Scheme",
+      "type":"Property",
+      "description":"The name of the drug coding scheme, if available.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition_meddra_code>",
+      "Facet":"Y",
+      "label":"Condition MedDRA Code",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/result_available>",
+      "Facet":"Y",
+      "label":"Availablility of Trial Results",
+      "type":"Property",
+      "description":"Whether or not the protocol contains an external link to a result page.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/person_study_director>",
+      "Facet":"Y",
+      "label":"Study Director",
+      "type":"Property",
+      "description":"The study director affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/person_contact>",
+      "Facet":"Y",
+      "label":"Contact Person",
+      "type":"Property",
+      "description":"The person listed as contact for the respective study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/status>",
+      "Facet":"Y",
+      "label":"Status",
+      "type":"Property",
+      "description":"The overall recruitment status of a clinical study.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/phase>",
+      "Facet":"Y",
+      "label":"Phase",
+      "type":"Property",
+      "description":"For a clinical trial of a drug product (including a biological product), the numerical phase of such clinical trial. ",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/start_date>",
+      "Facet":"N",
+      "label":"Start Date",
+      "type":"Property",
+      "description":"The estimated date on which the clinical study will be open for recruitment of participants, or the actual date on which the first participant was enrolled.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/registration_date>",
+      "Facet":"N",
+      "label":"Registration Date",
+      "type":"Property",
+      "description":"The date at which the study was registered in the respective registry.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/completion_date>",
+      "Facet":"N",
+      "label":"Completion Date",
+      "type":"Property",
+      "description":"Global completion date of the trial. The date that the final participant was examined or received an intervention for the purposes of final collection of data.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition>",
+      "Facet":"Y",
+      "label":"Condition",
+      "type":"Property",
+      "description":"The diseases or conditions studied in the clinical study protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/external_link>",
+      "Facet":"N",
+      "label":"External Link",
+      "type":"Property",
+      "description":"External link to the source trial page.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/facility>",
+      "Facet":"Y",
+      "label":"Facility",
+      "type":"Property",
+      "description":"Participating facility in a clinical study",
+      "provenance":[
+         
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/facility_name>",
+      "Facet":"Y",
+      "label":"Facility Name",
+      "type":"Property",
+      "description":"Facility denomination.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/secondary_outcome_measure>",
+      "Facet":"N",
+      "label":"Secondary Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific secondary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/secondary_outcome_timepoints>",
+      "Facet":"N",
+      "label":"Secondary Outcome Timepoints",
+      "type":"Property",
+      "description":"Time point(s) at which the measurement is assessed for the specific metric used.",
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/other_outcome>",
+      "Facet":"N",
+      "label":"Other Outcome",
+      "type":"Property",
+      "description":"Any other measurements, excluding post-hoc measures, that will be used to evaluate the intervention(s) or, for observational studies, that are a focus of the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/other_outcome_measure>",
+      "Facet":"N",
+      "label":"Other Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific other outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/other_outcome_timepoints>",
+      "Facet":"N",
+      "label":"Other Outcome Timepoints",
+      "type":"Property",
+      "description":"Time point(s) at which the measurement is assessed for the specific metric used.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/masking>",
+      "Facet":"Y",
+      "label":"Masking",
+      "type":"Property",
+      "description":"The party or parties involved in the clinical trial who are prevented from having knowledge of the interventions assigned to individual participants.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/intervention_type>",
+      "Facet":"N",
+      "label":"Intervention Type",
+      "type":"Property",
+      "description":"The general type of intervention.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/intervention_description>",
+      "Facet":"N",
+      "label":"Intervention Description",
+      "type":"Property",
+      "description":"Details about each intervention.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/citation>",
+      "Facet":"N",
+      "label":"Citation",
+      "type":"Property",
+      "description":"A bibliographic reference in NLM's MEDLINE format.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/medicinal_product>",
+      "Facet":"Y",
+      "label":"Investigational Medicinal Product",
+      "type":"Property",
+      "description":"The medicinal product which is being tested in the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/drug_code>",
+      "Facet":"N",
+      "label":"Drug Code",
+      "type":"Property",
+      "description":"Drug code defined by the sponsor.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/orphan_drug>",
+      "Facet":"Y",
+      "label":"Orphan Drug",
+      "type":"Property",
+      "description":"Has the IMP been designated in this indication as an orphan drug?",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/orphan_drug_number>",
+      "Facet":"N",
+      "label":"Orphan Drug Designation Number",
+      "type":"Property",
+      "description":"The orphan product designation number for this product and indication.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/drug_form>",
+      "Facet":"Y",
+      "label":"Drug Dosage Form",
+      "type":"Property",
+      "description":"The pharmaceutical form of the actual drug to be used in the clinical trial.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/condition_meddra_system_organ_class>",
+      "Facet":"Y",
+      "label":"Condition MedDRA System Organ Class",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalProtocol\/person_study_chair>",
+      "Facet":"Y",
+      "label":"Study Chair",
+      "type":"Property",
+      "description":"The study chair affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Arm\/description>",
+      "Facet":"N",
+      "label":"Description",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Arm\/intervention_type>",
+      "Facet":"N",
+      "label":"Intervention Type",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Arm\/intervention_description>",
+      "Facet":"N",
+      "label":"Intervention Description",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Arm\/arm_group_type>",
+      "Facet":"N",
+      "label":"Group Type",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Arm\/arm_group_label>",
+      "Facet":"N",
+      "label":"Arm Group Label",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition_name>",
+      "Facet":"Y",
+      "label":"Condition Name",
+      "type":"Property",
+      "description":"The name(s) of the disease(s) or condition(s) studied in the clinical study, or the focus of the clinical study.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/external_link>",
+      "Facet":"N",
+      "label":"External Link",
+      "type":"Property",
+      "description":"External link to the source trial page.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/facility>",
+      "Facet":"Y",
+      "label":"Facility",
+      "type":"Property",
+      "description":"Participating facility in a clinical study",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/facility_name>",
+      "Facet":"Y",
+      "label":"Facility Name",
+      "type":"Property",
+      "description":"Facility denomination.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/secondary_outcome_description>",
+      "Facet":"N",
+      "label":"Secondary Outcome Description",
+      "type":"Property",
+      "description":"Description of the metric used to characterize the specific secondary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/other_outcome_timepoints>",
+      "Facet":"N",
+      "label":"Other Outcome Timepoints",
+      "type":"Property",
+      "description":"Time point(s) at which the measurement is assessed for the specific metric used.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/time_perspective>",
+      "Facet":"Y",
+      "label":"Time Perspective",
+      "type":"Property",
+      "description":"Temporal relationship of observation period to time of participant enrollment.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/intervention_model>",
+      "Facet":"Y",
+      "label":"Intervention Model",
+      "type":"Property",
+      "description":"The strategy for assigning interventions to participants. ",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/participant_allocation>",
+      "Facet":"Y",
+      "label":"Participant Allocation",
+      "type":"Property",
+      "description":"The method by which participants are assigned to arms in a clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/intervention_description>",
+      "Facet":"N",
+      "label":"Intervention Description",
+      "type":"Property",
+      "description":"Details about each intervention.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/min_age>",
+      "Facet":"Y",
+      "label":"Eligibility Minimum Age",
+      "type":"Property",
+      "description":"The minimum age a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/affiliation_name>",
+      "Facet":"Y",
+      "label":"Affiliation Name",
+      "type":"Property",
+      "description":"Full name of the affiliated person's organization.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/lead_sponsor>",
+      "Facet":"Y",
+      "label":"Lead Sponsor",
+      "type":"Property",
+      "description":"The organization or person who initiates the study and who has authority and control over the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/lead_sponsor_type>",
+      "Facet":"N",
+      "label":"Lead Sponsor Type",
+      "type":"Property",
+      "description":"The lead sponsor agency type.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/lead_sponsor_name>",
+      "Facet":"Y",
+      "label":"Lead Sponsor Name",
+      "type":"Property",
+      "description":"The full name of the lead sponsor agency.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/collaborator_sponsor>",
+      "Facet":"Y",
+      "label":"Collaborating Sponsor",
+      "type":"Property",
+      "description":"Other organizations (if any) providing support.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/collaborator_sponsor_type>",
+      "Facet":"N",
+      "label":"Collaborating Sponsor Type",
+      "type":"Property",
+      "description":"The collaborator sponsor agency type.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/drug_roa>",
+      "Facet":"Y",
+      "label":"Drug Route Of Administration",
+      "type":"Property",
+      "description":"Drug route of administration.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition_mesh_term>",
+      "Facet":"Y",
+      "label":"Condition Mesh Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition_meddra_term>",
+      "Facet":"Y",
+      "label":"Condition MedDRA Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition_meddra_code>",
+      "Facet":"Y",
+      "label":"Condition MedDRA Code",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition_meddra_system_organ_class>",
+      "Facet":"Y",
+      "label":"Condition MedDRA System Organ Class",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/result_available>",
+      "Facet":"Y",
+      "label":"Availablility of Trial Results",
+      "type":"Property",
+      "description":"Whether or not the study contains an external link to a result page.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/minimum_age_numerical>",
+      "Facet":"N",
+      "label":"Eligibility Minimum Age [Years]",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/maximum_age_numerical>",
+      "Facet":"N",
+      "label":"Eligibility Maximum Age [Years]",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/study_type>",
+      "Facet":"N",
+      "label":"Type of Study",
+      "type":"Property",
+      "description":"Describes the nature of a clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/access_status>",
+      "Facet":"Y",
+      "label":"Access Status",
+      "type":"Property",
+      "description":"The expanded access status of the intervention",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/person_principal_investigator>",
+      "Facet":"Y",
+      "label":"Principal Investigator",
+      "type":"Property",
+      "description":"The principal investigators affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/person_study_chair>",
+      "Facet":"Y",
+      "label":"Study Chair",
+      "type":"Property",
+      "description":"The study chair affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/person_study_director>",
+      "Facet":"Y",
+      "label":"Study Director",
+      "type":"Property",
+      "description":"The study director affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/person_contact>",
+      "Facet":"Y",
+      "label":"Contact Person",
+      "type":"Property",
+      "description":"The person listed as contact for the respective study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/study_id>",
+      "Facet":"N",
+      "label":"Study ID",
+      "type":"Property",
+      "description":"The primary ID of the clinical study",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/earliest_start_date>",
+      "Facet":"N",
+      "label":"Earliest Start Date",
+      "type":"Property",
+      "description":"The earliest estimated date on which the clinical study will be open for recruitment of participants, or the actual date on which the first participant was enrolled.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_outcome_timepoints>",
+      "Facet":"N",
+      "label":"Primary Outcome Timepoints",
+      "type":"Property",
+      "description":"Time point(s) at which the measurement is assessed for the specific metric used.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_purpose>",
+      "Facet":"Y",
+      "label":"Primary Purpose",
+      "type":"Property",
+      "description":"The main objective of the intervention(s) being evaluated by the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/observation_model>",
+      "Facet":"Y",
+      "label":"Observation Model",
+      "type":"Property",
+      "description":"Primary strategy for participant identification and follow-up.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/masking>",
+      "Facet":"Y",
+      "label":"Masking",
+      "type":"Property",
+      "description":"The party or parties involved in the clinical trial who are prevented from having knowledge of the interventions assigned to individual participants.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/exclusion_criteria>",
+      "Facet":"N",
+      "label":"Exclusion Criteria",
+      "type":"Property",
+      "description":"Exclusion criteria for selection of participants for section of participants to the study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/authorized_product>",
+      "Facet":"Y",
+      "label":"Authorized Product",
+      "type":"Property",
+      "description":"Has the IMP a marketing authorisation?",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/authorized_product_name>",
+      "Facet":"Y",
+      "label":"Authorized Product Name",
+      "type":"Property",
+      "description":"The product name as registered by themarketing authorisation holder.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/drug_coding_scheme>",
+      "Facet":"Y",
+      "label":"Drug Coding Scheme",
+      "type":"Property",
+      "description":"The name of the drug coding scheme, if available.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/drug_code>",
+      "Facet":"N",
+      "label":"Drug Code",
+      "type":"Property",
+      "description":"Drug code defined by the sponsor.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/person_sub_investigator>",
+      "Facet":"Y",
+      "label":"Sub Investigator",
+      "type":"Property",
+      "description":"The sub-investigators affiliated to the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/earliest_registration_date>",
+      "Facet":"N",
+      "label":"Earliest Registration Date",
+      "type":"Property",
+      "description":"The earliest date at which the study was registered in the any registry.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/latest_completion_date>",
+      "Facet":"N",
+      "label":"Latest Completion Date",
+      "type":"Property",
+      "description":"Latest global completion date of the trial. The date that the final participant was examined or received an intervention for the purposes of final collection of data.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_completion_date>",
+      "Facet":"N",
+      "label":"Latest Primary Completion Date",
+      "type":"Property",
+      "description":"Completion date for the primary outcome.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/total_duration>",
+      "Facet":"N",
+      "label":"Total Duration",
+      "type":"Property",
+      "description":"Duration of the entire study in years.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/enrollment>",
+      "Facet":"N",
+      "label":"Enrollment",
+      "type":"Property",
+      "description":"The (target) total number of participants that are (to be) enrolled in the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/description>",
+      "Facet":"N",
+      "label":"Description",
+      "type":"Property",
+      "description":"A description of the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/other_outcome>",
+      "Facet":"N",
+      "label":"Other Outcome",
+      "type":"Property",
+      "description":"Any other measurements, excluding post-hoc measures, that will be used to evaluate the intervention(s) or, for observational studies, that are a focus of the study.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/other_outcome_description>",
+      "Facet":"N",
+      "label":"Other Outcome Description",
+      "type":"Property",
+      "description":"Description of the metric used to characterize the specific other outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/intervention_type>",
+      "Facet":"N",
+      "label":"Intervention Type",
+      "type":"Property",
+      "description":"The general type of intervention.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/inclusion_criteria>",
+      "Facet":"N",
+      "label":"Inclusion Criteria",
+      "type":"Property",
+      "description":"Inclusion criteria for selection of participants for section of participants to the study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/max_age>",
+      "Facet":"Y",
+      "label":"Eligibility Maximum Age",
+      "type":"Property",
+      "description":"The maximum age a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/inclusion_age>",
+      "Facet":"Y",
+      "label":"Inclusion Age",
+      "type":"Property",
+      "description":"The age category a potential participant must meet to be eligible for the clinical study.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/affiliation_person_name>",
+      "Facet":"N",
+      "label":"Name",
+      "type":"Property",
+      "description":"Last name of the study affiliated person.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/collaborator_sponsor_name>",
+      "Facet":"Y",
+      "label":"Collaborating Sponsor Name",
+      "type":"Property",
+      "description":"The full name of the collaborator sponsor agency.",
+      "provenance":[
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/result_external_link>",
+      "Facet":"N",
+      "label":"Link to Result Page",
+      "type":"Property",
+      "description":"External link to study results.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/orphan_drug>",
+      "Facet":"Y",
+      "label":"Orphan Drug",
+      "type":"Property",
+      "description":"Has the IMP been designated in this indication as an orphan drug?",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/orphan_drug_number>",
+      "Facet":"N",
+      "label":"Orphan Drug Designation Number",
+      "type":"Property",
+      "description":"The orphan product designation number for this product and indication.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/imp_compound>",
+      "Facet":"N",
+      "label":"Investigational Medicinal Product Information",
+      "type":"Property",
+      "description":"A medicinal product which is being tested or used as a reference, including as a placebo, in a clinical trial. Formatted as a dictionary, containing additional meta-data.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/medicinal_product_name>",
+      "Facet":"Y",
+      "label":"Investigational Medicinal Product Name",
+      "type":"Property",
+      "description":"The medicinal product which is being tested in the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/medicinal_product>",
+      "Facet":"Y",
+      "label":"Investigational Medicinal Product",
+      "type":"Property",
+      "description":"The medicinal product which is being tested in the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/comparator>",
+      "Facet":"Y",
+      "label":"Comparator",
+      "type":"Property",
+      "description":"The medicinal product which is used as a reference, including placebos, in the clinical trial. ",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/comparator_name>",
+      "Facet":"Y",
+      "label":"Comparator Name",
+      "type":"Property",
+      "description":"The medicinal product which is used as a reference, including placebos, in the clinical trial. ",
+      "provenance":[
+         
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/title>",
+      "Facet":"N",
+      "label":"Title",
+      "type":"Property",
+      "description":"The title of the clinical trials, corresponding to the title of the protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/status>",
+      "Facet":"Y",
+      "label":"Status",
+      "type":"Property",
+      "description":"The overall recruitment status of a clinical study.",
+      "provenance":[
+         "ONTOFORCE"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/phase>",
+      "Facet":"Y",
+      "label":"Phase",
+      "type":"Property",
+      "description":"For a clinical trial of a drug product (including a biological product), the numerical phase of such clinical trial. ",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/condition>",
+      "Facet":"Y",
+      "label":"Condition",
+      "type":"Property",
+      "description":"A link to the related disease(s) or condition(s) studied in the clinical study, or the focus of the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/therapeutic_area>",
+      "Facet":"Y",
+      "label":"Therapeutic Area",
+      "type":"Property",
+      "description":"Disease domain in research.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_outcome>",
+      "Facet":"N",
+      "label":"Primary Outcome",
+      "type":"Property",
+      "description":"The outcome measure(s) of greatest importance specified in the protocol.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_outcome_description>",
+      "Facet":"N",
+      "label":"Primary Outcome Description",
+      "type":"Property",
+      "description":"Description of the metric used to characterize the specific primary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/primary_outcome_measure>",
+      "Facet":"N",
+      "label":"Primary Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific primary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/secondary_outcome>",
+      "Facet":"N",
+      "label":"Secondary Outcome",
+      "type":"Property",
+      "description":" Outcome measure that is of lesser importance than a primary outcome measure, but is part of a pre-specified analysis plan for evaluating the effects of the intervention or interventions under investigation in a clinical study and is not specified as an exploratory or other measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/secondary_outcome_measure>",
+      "Facet":"N",
+      "label":"Secondary Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific secondary outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/secondary_outcome_timepoints>",
+      "Facet":"N",
+      "label":"Secondary Outcome Timepoints",
+      "type":"Property",
+      "description":"Time point(s) at which the measurement is assessed for the specific metric used.",
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/other_outcome_measure>",
+      "Facet":"N",
+      "label":"Other Outcome Measure",
+      "type":"Property",
+      "description":"Name of the specific other outcome measure.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/arm>",
+      "Facet":"N",
+      "label":"Study Arm",
+      "type":"Property",
+      "description":"A pre-specified group or subgroup of participant(s) in a clinical trial assigned to receive specific intervention(s) (or no intervention) according to a protocol.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/arm_type>",
+      "Facet":"N",
+      "label":"Study Arm Type",
+      "type":"Property",
+      "description":"The role of each arm in the clinical trial.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/sampling_method>",
+      "Facet":"Y",
+      "label":"Sampling Method",
+      "type":"Property",
+      "description":"The method used for the sampling approach.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/gender>",
+      "Facet":"Y",
+      "label":"Gender",
+      "type":"Property",
+      "description":"The sex and, if applicable, gender of the participants eligible to participate in the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/pmid>",
+      "Facet":"N",
+      "label":"PMID",
+      "type":"Property",
+      "description":"PMID for the citation in MEDLINE.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/citation>",
+      "Facet":"N",
+      "label":"Citation",
+      "type":"Property",
+      "description":"A bibliographic reference in NLM's MEDLINE format.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/affiliation>",
+      "Facet":"Y",
+      "label":"Affiliation",
+      "type":"Property",
+      "description":"Affiliation details of persons linked to the clinical study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/affiliation_person_role>",
+      "Facet":"Y",
+      "label":"Role",
+      "type":"Property",
+      "description":"Position or function of the study affiliated person.",
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/drug_form>",
+      "Facet":"Y",
+      "label":"Drug Dosage Form",
+      "type":"Property",
+      "description":"The pharmaceutical form of the actual drug to be used in the clinical trial.",
+      "provenance":[
+         "EudraCT"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/ClinicalStudy\/drug>",
+      "Facet":"Y",
+      "label":"Drug",
+      "type":"Property",
+      "description":"Drugs used as Intervention, Authorized Product or Medicinal Product in the Clinical Study.",
+      "provenance":[
+         "ClinicalTrials.gov",
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Condition\/meddra_term>",
+      "Facet":"N",
+      "label":"MedDRA Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Condition\/meddra_code>",
+      "Facet":"N",
+      "label":"MedDRA Code",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Condition\/meddra_external_link>",
+      "Facet":"N",
+      "label":"Link to the related MedDRA page",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "EudraCT",
+         "WHO: International Clinical Trials Registry Platform"
+      ]
+   },
+   {
+      "URI":"<http:\/\/ns.ontoforce.com\/property\/Condition\/mesh_term>",
+      "Facet":"N",
+      "label":"MeSH Term",
+      "type":"Property",
+      "description":null,
+      "provenance":[
+         "ClinicalTrials.gov"
+      ]
+   }
+]
